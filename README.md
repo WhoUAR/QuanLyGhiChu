@@ -1,6 +1,6 @@
 # ĐỒ ÁN MÔN HỌC: ỨNG DỤNG QUẢN LÝ GHI CHÚ (REACTJS & NODEJS)
-**Giảng viên hướng dẫn:** [Nguyễn Hoàng Việt]
-**Nhóm thực hiện:** Nhóm [Số nhóm]
+**Giảng viên hướng dẫn:** Nguyễn Hoàng Việt
+**Nhóm thực hiện:** Nhóm 4
 **Thành viên:**
 1. Trần Quốc Khánh - 0306241206 - Vai trò: PM & QA
 2. Trần Thanh An - 0306241171 - Vai trò: Backend Developer
