@@ -1,0 +1,2 @@
+# QuanLyGhiChu
+a note keeper
