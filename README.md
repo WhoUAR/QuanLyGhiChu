@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ĐỒ ÁN MÔN HỌC: ỨNG DỤNG QUẢN LÝ GHI CHÚ (REACTJS & NODEJS)[cite: 1]
 **Giảng viên hướng dẫn:** [Nguyễn Hoàng Việt][cite: 1]
 **Nhóm thực hiện:** Nhóm [Số nhóm][cite: 1]
@@ -39,3 +40,7 @@ Lưu ý: Frontend sẽ chạy tại http://localhost:5173 (hoặc cổng khác h
 Web không yêu cầu đăng nhập tài khoản.[cite: 2]
 Để xem khu vực Ghi chú riêng tư, vui lòng vào menu "Cài đặt" để tạo mật khẩu mới.[cite: 2]
 ---[cite: 2]
+=======
+# QuanLyGhiChu
+a note keeper
+>>>>>>> 48b97e25c5fdf05b90ac91e671c159c30f78481a
