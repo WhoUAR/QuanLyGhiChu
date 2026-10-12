@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Học bài",
+    "content": "9/10 KTRA ASP NET CORE",
+    "createdAt": "2026-10-09T14:10:54.911Z",
+    "updatedAt": "2026-10-09T14:10:54.911Z"
+  },
+  {
+    "id": "note-ht-1",
+    "title": "Kế hoạch bảo vệ đồ án Web",
+    "content": "Chuẩn bị Slide thuyết trình, phân công kịch bản 4 người, kiểm tra server và client trước 30 phút.",
+    "createdAt": "2026-10-09T13:43:18.141Z",
+    "updatedAt": "2026-10-09T13:43:18.141Z"
+  },
+  {
+    "id": "note-ht-2",
+    "title": "Ôn tập kiến trúc React SPA",
+    "content": "Nắm vững luồng State, Props, useEffect, Context API và cách kết nối RESTful API với Express.",
+    "createdAt": "2026-10-09T13:43:18.141Z",
+    "updatedAt": "2026-10-09T13:43:18.141Z"
+  }
+]
