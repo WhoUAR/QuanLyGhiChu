@@ -43,6 +43,6 @@ npm run dev
 
 ## 5. Kết quả Kiểm thử Chất lượng (QC Summary)
 - Tổng số Testcase: 20 testcase (Bao gồm Happy Path và Edge Case).
-- Tỉ lệ Đạt (Pass): 18/20 (88% trong lần chạy đầu).
+- Tỉ lệ Đạt (Pass): 18/20 (90% trong lần chạy đầu).
 - Tổng số Bug phát hiện: 2 lỗi (logic API)
 - Số lỗi phát hiện & đã khắc phục (Fixed): 2/2 lỗi (100% hoàn thành).
